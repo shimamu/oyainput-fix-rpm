@@ -7,7 +7,7 @@ License:        GPL-3.0-or-later
 URL:            https://github.com/shimamu/oyainput-fcitx5-fix
 Source0:        https://github.com/shimamu/oyainput-fcitx5-fix/archive/refs/tags/v1.2-fcitx5-fix.1.1.tar.gz
 
-BuildRequires:  gcc-c++, make, pkg-config, fcitx5-devel
+BuildRequires:  gcc-c++, make
 Recommends:     fcitx5
 
 %description
