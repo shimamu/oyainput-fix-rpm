@@ -1,0 +1,6 @@
+# Ignore build output directories cleaned by 'make clean'
+BUILD/
+RPMS/
+SRPMS/
+SPECS/
+SOURCES/
